@@ -9,8 +9,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+web+and+mobile+applications;Learning+Backend+and+Mobile+Development;Turning+ideas+into+real+digital+products;Code.+Design.+Build.+Repeat." />
 
 </div>
----
-
 ## 🚀 About Me
 
 - 🎓 Software Engineering Student
