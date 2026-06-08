@@ -19,22 +19,29 @@
 
 ## 🧰 Tech Stack
 
-- PHP / Laravel
-- Python / Django / Flask
-- Java / Kotlin
-- JavaScript / Next.js
-- Flutter / Dart
-- MySQL
-- Docker
-- Figma
-- Adobe Illustrator
+<div align="center">
 
-## 📌 Current Focus
+### Languages
 
-```txt
-Backend Development
-REST API
-Mobile App Development
-Database Design
-Deployment
-UI Implementation
+![PHP](https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php&logoColor=777BB4)
+![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Dart](https://img.shields.io/badge/Dart-0f172a?style=for-the-badge&logo=dart&logoColor=0175C2)
+
+### Frameworks
+
+![Django](https://img.shields.io/badge/Django-111827?style=for-the-badge&logo=django&logoColor=22C55E)
+![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=FFFFFF)
+![Laravel](https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![Flutter](https://img.shields.io/badge/Flutter-111827?style=for-the-badge&logo=flutter&logoColor=02569B)
+
+### Database, Tools & Design
+
+![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Figma](https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032)
+![Firebase](https://img.shields.io/badge/Firebase-0f172a?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+
+</div>
