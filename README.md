@@ -14,9 +14,30 @@
 
 ## 🚀 About Me
 
+- 🎓 Software Engineering Student
+- 💻 Interested in Backend Development, Mobile Apps, and UI/UX
+- 🔥 Currently learning Laravel, Django, Flutter, Android, and Docker
+- 🎨 Also interested in branding and digital product design
+- 🧠 I like building real projects and learning by doing
+
+## 🧰 Tech Stack
+
+- PHP / Laravel
+- Python / Django / Flask
+- Java / Kotlin
+- JavaScript / Next.js
+- Flutter / Dart
+- MySQL
+- Docker
+- Figma
+- Adobe Illustrator
+
+## 📌 Current Focus
+
 ```txt
-Name        : Faiz Nurfaadhil Ihsan
-Role        : Software Engineering Student
-Focus       : Backend Development, Mobile Apps, Web Systems
-Currently   : Internship, real-world projects, and campus software development
-Mindset     : Build first, improve later, never stop learning
+Backend Development
+REST API
+Mobile App Development
+Database Design
+Deployment
+UI Implementation
