@@ -17,8 +17,6 @@
 - 🎨 Also interested in branding and digital product design
 - 🧠 I like building real projects and learning by doing
 
-## 🧰 Tech Stack
-
 <div align="center">
 
 ### Languages
