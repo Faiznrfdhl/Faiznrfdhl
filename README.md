@@ -11,7 +11,7 @@ Software Engineering student who loves building **web**, **mobile**, and **backe
 
 Currently learning and working with backend systems, REST API, mobile development, UI implementation, and real-world software projects.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&width=500&lines=Backend+Developer;Mobile+App+Learner;Creative+Technologist;Eat+|+Sleep+|+Coding+|+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&width=500&lines=Backend+to+Fullstack+Developer.;Eat+|+Sleep+|+Coding+|+Repeat." />
 
   </td>
   <td width="42%" align="center" valign="middle">
@@ -42,6 +42,9 @@ Currently learning and working with backend systems, REST API, mobile developmen
 ![Figma](https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032)
 ![Firebase](https://img.shields.io/badge/Firebase-0f172a?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+
+---
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faiznrfdhl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e5e7eb" />
 </div>
 
 ---
@@ -52,8 +55,6 @@ Currently learning and working with backend systems, REST API, mobile developmen
 
 ---
 <!-- <img height="160" src="https://github-readme-stats.vercel.app/api?username=Faiznrfdhl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=e5e7eb" /> -->
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faiznrfdhl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e5e7eb" />
 </div>
 
   </td>
