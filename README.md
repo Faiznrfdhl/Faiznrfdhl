@@ -11,12 +11,14 @@ Software Engineering student who loves building **web**, **mobile**, and **backe
 
 Currently learning and working with backend systems, REST API, mobile development, UI implementation, and real-world software projects.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&width=500&lines=Backend+Developer+%E2%86%92+Full-Stack+Developer;Eat+|+Sleep+|+Coding+|+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&width=500&lines=Backend+Developer+%E2%86%92+Full-Stack+Developer;Eat+|+Sleep+|+Code+|+Repeat." />
 
   </td>
   <td width="42%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI1ZWtxdzk2Nnd5azFteGFqdmc2eDUxaWYyMXo2azhtcnY0NzNiaCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/aPoWIEaPPoCXpzelGV/giphy.gif" width="220" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI1ZWtxdzk2Nnd5azFteGFqdmc2eDUxaWYyMXo2azhtcnY0NzNiaCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/aPoWIEaPPoCXpzelGV/giphy.gif" width="250" />
+
+<!-- <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MTl6em93MDU0emdkajZpdmRvcHJxeXU0Yjc4b3NmMHJ2cmg5Z3B2OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1N2QhTS9Z8jEVPPjhD/giphy.gif" width="220" /> -->
 
   </td>
   </tr>
