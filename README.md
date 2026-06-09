@@ -44,16 +44,6 @@
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Faiznrfdhl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=e5e7eb" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faiznrfdhl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e5e7eb" />
-
-</div>
-
 ## 🔥 GitHub Streak
 
 <div align="center">
