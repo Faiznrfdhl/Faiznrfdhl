@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:9333ea&height=220&section=header&text=Faiz%20Nurfaadhil%20Ihsan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Eat%20%7C%20Sleep%20%7C%20Coding%20%7C%20Repeat%20&descAlignY=58&descSize=16"/>
-
 <div align="center">
 
 # 👋 Yo, I'm Faiz
@@ -9,13 +7,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+web+and+mobile+applications;Learning+Backend+and+Mobile+Development;Turning+ideas+into+real+digital+products;Code.+Design.+Build.+Repeat." />
 
 </div>
-🚀 About Me
-
-- 🎓 Software Engineering Student
-- 💻 Interested in Backend Development, Mobile Apps, and UI/UX
-- 🔥 Currently learning Laravel, Django, Flutter, Android, and Docker
-- 🎨 Also interested in branding and digital product design
-- 🧠 I like building real projects and learning by doing
 
 <div align="center">
 
@@ -41,20 +32,10 @@
 ![Figma](https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032)
 ![Firebase](https://img.shields.io/badge/Firebase-0f172a?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-
 </div>
 
-## 🔥 GitHub Streak
-
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Faiznrfdhl&theme=tokyonight&hide_border=true&background=0f172a&stroke=38bdf8&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8" />
-
-</div>
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:9333ea&height=180&section=header&text=Faiz%20Nurfaadhil%20Ihsan&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Backend%20Developer%20%7C%20Creative%20Builder&descAlignY=60&descSize=15"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:9333ea&height=180&section=header&text=izz%20Faizz&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Backend%20Developer%20%7C%20Creative%20Builder&descAlignY=60&descSize=15"/>
 </div>
 
 <table width="100%">
@@ -67,7 +48,7 @@ Software Engineering student who loves building **web**, **mobile**, and **backe
 
 Currently learning and working with backend systems, REST API, mobile development, UI implementation, and real-world software projects.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&width=500&lines=Backend+Developer;Mobile+App+Learner;Creative+Technologist;Code.+Design.+Build.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&width=500&lines=Backend+Developer;Mobile+App+Learner;Creative+Technologist;Eat+|+Sleep+|+Coding+|+Repeat." />
 
   </td>
   <td width="42%" align="center" valign="middle">
@@ -95,13 +76,11 @@ Currently learning and working with backend systems, REST API, mobile developmen
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Analytics
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Faiznrfdhl&theme=tokyonight&hide_border=true&background=0f172a&stroke=38bdf8&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8" />
-
-## GitHub Analytics
 
 <div align="center">
 
