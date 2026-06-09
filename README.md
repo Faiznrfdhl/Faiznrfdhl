@@ -16,7 +16,7 @@ Currently learning and working with backend systems, REST API, mobile developmen
   </td>
   <td width="42%" align="center" valign="middle">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFqNDlnNGg4c2RyOWxoampzem91ZHZ4Mm55N2ljaHR6YXI5YWhsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OirrD0sBeuV2Qu1aQt/giphy.gif" width="220" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI1ZWtxdzk2Nnd5azFteGFqdmc2eDUxaWYyMXo2azhtcnY0NzNiaCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/aPoWIEaPPoCXpzelGV/giphy.gif" width="220" />
 
   </td>
   </tr>
