@@ -5,13 +5,13 @@
   <tr>
     <td width="58%" valign="middle">
 
-# Just call my name Izz
+# Just call me Izz
 
 Software Engineering student who loves building **web**, **mobile**, and **backend applications**.
 
 Currently learning and working with backend systems, REST API, mobile development, UI implementation, and real-world software projects.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&width=500&lines=Backend+to+Fullstack+Developer.;Eat+|+Sleep+|+Coding+|+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&width=500&lines=Backend+Developer+%E2%86%92+Full-Stack+Developer;Eat+|+Sleep+|+Coding+|+Repeat." />
 
   </td>
   <td width="42%" align="center" valign="middle">
@@ -55,7 +55,64 @@ Currently learning and working with backend systems, REST API, mobile developmen
 
   </td>
   <td width="50%" valign="top">
-    
+    <h3>🔹 Eprokesba Backend</h3>
+
+<p>
+REST API backend for an e-commerce mobile application. Built to handle authentication, product data, transactions, payments, and shipping flow.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Django-0f172a?style=flat-square&logo=django&logoColor=22C55E"/>
+  <img src="https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=2496ED"/>
+</p>
+
+<a href="https://github.com/Faiznrfdhl/eprokesba_backend">View Repository</a>
+
+<hr>
+
+<h3>🔹 Eprokesba Mobile</h3>
+
+<p>
+Mobile e-commerce application built as the client-side app for Eprokesba, connected with backend API and designed for product browsing and transaction flow.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-0f172a?style=flat-square&logo=flutter&logoColor=02569B"/>
+  <img src="https://img.shields.io/badge/Dart-0f172a?style=flat-square&logo=dart&logoColor=0175C2"/>
+</p>
+
+<a href="https://github.com/Faiznrfdhl/eprokesba_mobile">View Repository</a>
+
+<hr>
+
+<h3>🔹 Network Transfer</h3>
+
+<p>
+A Python-based project focused on file or data transfer over a network, created to explore networking concepts and practical implementation.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=3776AB"/>
+</p>
+
+<a href="https://github.com/Faiznrfdhl/network_transfer">View Repository</a>
+
+<hr>
+
+<h3>🔹 Container Kolam Ikan</h3>
+
+<p>
+IoT and container-based project concept for monitoring fish pond data using web/mobile integration and cloud-based deployment flow.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/IoT-0f172a?style=flat-square"/>
+  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Cloud-0f172a?style=flat-square"/>
+</p>
+
+<a href="https://github.com/Faiznrfdhl/container-kolamikan">View Repository</a>
   </td>
   </tr>
 </table>
