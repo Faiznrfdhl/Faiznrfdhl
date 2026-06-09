@@ -43,7 +43,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-0f172a?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
 </div>
----
 
 ## 📊 GitHub Analytics
 
@@ -54,7 +53,6 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faiznrfdhl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e5e7eb" />
 
 </div>
----
 
 ## 🔥 GitHub Streak
 
