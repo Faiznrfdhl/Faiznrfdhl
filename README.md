@@ -72,7 +72,7 @@ Currently learning and working with backend systems, REST API, mobile developmen
   </td>
   <td width="42%" align="center" valign="middle">
 
-<img src="LINK_GIF_LU_DI_SINI" width="220" />
+<img src="(https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZzZ4aGk4dGRlZDNybXBsZHh1dGtvZnhnNHRlbXAzZ3U1dm41c2tiaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ruGlhgEhjubyIjsybs/giphy.gif)" width="220" />
 
   </td>
   </tr>
@@ -86,11 +86,9 @@ Currently learning and working with backend systems, REST API, mobile developmen
 
 <div align="center">
 
-![PHP](https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php&logoColor=777BB4)
 ![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=F97316)
+![PHP](https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php&logoColor=777BB4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Kotlin](https://img.shields.io/badge/Kotlin-0f172a?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
 ![Dart](https://img.shields.io/badge/Dart-0f172a?style=for-the-badge&logo=dart&logoColor=0175C2)
 
 </div>
@@ -103,42 +101,21 @@ Currently learning and working with backend systems, REST API, mobile developmen
 
 <img src="https://streak-stats.demolab.com?user=Faiznrfdhl&theme=tokyonight&hide_border=true&background=0f172a&stroke=38bdf8&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8" />
 
+## GitHub Analytics
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Faiznrfdhl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=e5e7eb" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faiznrfdhl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e5e7eb" />
+
+
 </div>
 
   </td>
   <td width="50%" valign="top">
 
-## 🧩 Projects
 
-### 🔹 HUEHUY Application
-
-Real-world internship project involving backend fixing, frontend checking, media upload handling, production issue handling, and community feature improvement.
-
-```txt
-Tech   : Laravel, Next.js, REST API
-Focus  : Backend fixing, community flow, production issue
-Status : Internship Project
-```
-
-### 🔹 Eprokesba E-Commerce
-
-Mobile-based e-commerce application with Django REST API backend and Flutter mobile app.
-
-```txt
-Tech   : Django REST Framework, MySQL, Docker, Flutter
-Focus  : Backend API, product, transaction, payment, shipping
-Status : Campus Project
-```
-
-### 🔹 WhatsApp Blaster
-
-Automation-based WhatsApp blasting system using Flask and Selenium.
-
-```txt
-Tech   : Flask, Selenium, Python
-Focus  : Environment setup and source code analysis
-Status : Learning Project
-```
 
   </td>
   </tr>
@@ -163,14 +140,6 @@ Status : Learning Project
 
   </td>
   <td width="50%" valign="top">
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Faiznrfdhl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=e5e7eb" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faiznrfdhl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e5e7eb" />
 
 </div>
 
