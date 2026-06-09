@@ -27,7 +27,7 @@ Currently learning and working with backend systems, REST API, mobile developmen
     <td width="50%" valign="top">
 
 <div align="center">
-
+  
 ![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB)
 ![PHP](https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php&logoColor=777BB4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -48,12 +48,8 @@ Currently learning and working with backend systems, REST API, mobile developmen
 </div>
 
 ---
-
-## GitHub Analytics
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Faiznrfdhl&theme=tokyonight&hide_border=true&background=0f172a&stroke=38bdf8&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8" />
-
----
 <!-- <img height="160" src="https://github-readme-stats.vercel.app/api?username=Faiznrfdhl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=e5e7eb" /> -->
 </div>
 
