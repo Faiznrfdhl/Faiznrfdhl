@@ -1,12 +1,11 @@
-<div align="center">
+<!-- <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:9333ea&height=180&section=header&text=izz%20Faizz&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Backend%20Developer%20%7C%20Creative%20Builder&descAlignY=60&descSize=15"/>
-</div>
-
+</div> -->
 <table width="100%">
   <tr>
     <td width="58%" valign="middle">
 
-# 👋 Yo, I'm Faiz
+# Just call my name Izz
 
 Software Engineering student who loves building **web**, **mobile**, and **backend applications**.
 
