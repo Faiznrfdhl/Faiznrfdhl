@@ -43,3 +43,23 @@
 ![Firebase](https://img.shields.io/badge/Firebase-0f172a?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
 </div>
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Faiznrfdhl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=e5e7eb" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faiznrfdhl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e5e7eb" />
+
+</div>
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Faiznrfdhl&theme=tokyonight&hide_border=true&background=0f172a&stroke=38bdf8&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8" />
+
+</div>
